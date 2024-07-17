@@ -1,6 +1,6 @@
 !!!PROJECT!!!
 
-![The Cooking Game VR](https://raw.githubusercontent.com/NeutrinoZh/blog/master/portfolio/the-cooking-game-vr.png)  
+![The Cooking Game VR](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/the-cooking-game-vr.png)  
 
 ## The Cooking Game VR
 
@@ -17,7 +17,7 @@ an immersive and polished experience
 
 !!!PROJECT!!!
 
-![Into The Abyss](https://raw.githubusercontent.com/NeutrinoZh/blog/master/portfolio/into-the-abyss.png)  
+![Into The Abyss](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/into-the-abyss.png)  
 
 ## Into The Abyss
 
