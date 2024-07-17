@@ -4,8 +4,10 @@
 
 ## The Cooking Game VR
 
-*Platform: VR (SteamVR, Meta Link PC, Meta Quest) <br/>
-Stack: Unity, OpenXR, Wwise, URP, Netcode for GameObjects*
+*Platform: VR (SteamVR, Meta Link PC, Meta Quest)*
+
+
+*Stack: Unity, OpenXR, Wwise, URP, Netcode for GameObjects*
 
 I collaborated with the designer to bring our game to life, tackling all the
 technical challenges. I crafted intricate game mechanics, fine-tuned it for
@@ -21,7 +23,9 @@ an immersive and polished experience
 
 ## Into The Abyss
 
-*Platform: Android <br/>
-Stack: Unity, DOTween, UI Toolkit, Github Actions with GameCI*
+*Platform: Android*
+
+
+*Stack: Unity, DOTween, UI Toolkit, Github Actions with GameCI*
 
 The project architecture is based on the Model-View-Presenter pattern along with the Services pattern for better separation of concerns. Continuous Integration and Continuous Deployment pipelines are set up using GitHub Actions and Game CI, automating the build and testing processes for efficient development workflows.
