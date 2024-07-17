@@ -1,4 +1,4 @@
-!!!PROJECT!!!
+!!PROJECT!!!
 
 ![The Cooking Game VR](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/the-cooking-game-vr.png)  
 
@@ -15,7 +15,7 @@ gameobjects and relay). I also ported the game to Steam, working with the
 Steam API. My toolkit also included the OpenXR and Wwise SDK, ensuring
 an immersive and polished experience
 
-!!!PROJECT!!!
+!!PROJECT!!!
 
 ![Into The Abyss](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/into-the-abyss.png)  
 
