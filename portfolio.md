@@ -30,6 +30,33 @@ The project architecture is based on the Model-View-Presenter pattern along with
 
 !!PROJECT!!
 
+![Wind](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/wind.png)  
+
+## [Wind](https://github.com/Dronner-Inc/dreich)
+
+*Platform: PC*
+
+*Stack: C++, Boost, OpenGL, Ultralight, TypeScript, React*
+
+Cpp game engine. Boost, GLFW with OpenGL renderer, Ultralight UI
+(React/TSX). Asset pipeline (Bundles, Override assets, Lazy loading), Modern Input System (based on actions).
+
+!!PROJECT!!
+
+![Asset Pipeline](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/asset-pipeline.png)  
+
+## [Asset Pipeline](https://github.com/Dronner-Inc/dreich/blob/master/wind/docs/AssetPipeline.md)
+
+*Platform: PC, Android*
+
+*Stack: C++, Zlib*
+
+In game development, raw resources, such as graphics, audio, and other multimedia elements, are often not initially optimized for efficient usage within games. These resources may come in high-resolution formats or sizes that can impact the game's performance, increase loading times, and consume unnecessary storage space.
+
+The Asset Pipeline module addresses this challenge by serving as a vital intermediary step in the development process. It takes raw, unoptimized resources and transforms them into a format suitable for seamless integration and optimal performance within the game.
+
+!!PROJECT!!
+
 ![Dino](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/dino.png)  
 
 ## [Dino](https://neutrinozh.itch.io/dino)
