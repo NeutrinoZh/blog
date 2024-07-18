@@ -6,7 +6,6 @@
 
 *Platform: VR (SteamVR, Meta Link PC, Meta Quest)*
 
-
 *Stack: Unity, OpenXR, Wwise, URP, Netcode for GameObjects*
 
 I collaborated with the designer to bring our game to life, tackling all the
@@ -25,7 +24,18 @@ an immersive and polished experience
 
 *Platform: Android*
 
-
 *Stack: Unity, DOTween, UI Toolkit, Github Actions with GameCI*
 
 The project architecture is based on the Model-View-Presenter pattern along with the Services pattern for better separation of concerns. Continuous Integration and Continuous Deployment pipelines are set up using GitHub Actions and Game CI, automating the build and testing processes for efficient development workflows.
+
+!!PROJECT!!
+
+![Dino](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/dino.png)  
+
+## [Dino](https://neutrinozh.itch.io/dino)
+
+*Platform: Android*
+
+*Stack: Java, LibGDX, Google AdMob, Python*
+
+The game was developed in a couple of days during my first-year vacation in collage. Interestingly, for the leaderboards, I decided to write my own service in Python, which I then hosted on Heroku. There are several locations that unlock as you progress, but otherwise, it’s just the usual dino game.
