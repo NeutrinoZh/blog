@@ -1,9 +1,7 @@
-I am a 19-year-old student of the Cherkasy State Business College.
-I have been working as a game developer on Unity for VR for a year and a half.
-I also have my pet project [Depths of Darkness](https://github.com/NeutrinoZh/depths-of-darkness) that will be uploaded to the Play Store.
-I am passionate about programming in C++ and Rust, and have many interesting projects, some of which can be found on my [GitHub](https://github.com/neutrinozh/).
+I am 19 years old, a 2024 graduate of Cherkasy State Business College. I have been working as a game developer on Unity for VR for two years.
+I am passionate about programming in C++, and have many interesting projects, some of which can be found on my [GitHub](https://github.com/neutrinozh/).
 I really like developing complex systems, like my own [game engine](https://github.com/NeutrinoZh/chaos).
-Or something simple but limitless to explore, like my own [brainfuck interpretator](https://github.com/NeutrinoZh/brainfuck)
+Or something simple but limitless to explore, like my own [brainfuck llvm jit](https://github.com/NeutrinoZh/brainfuck)
 
 I started learning programming as a child. As long as I can remember,
 I have always dreamed of creating my own games. So my first attempts were
