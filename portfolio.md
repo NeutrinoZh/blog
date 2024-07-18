@@ -1,8 +1,8 @@
-!!PROJECT!!!
+!!PROJECT!!
 
 ![The Cooking Game VR](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/the-cooking-game-vr.png)  
 
-## The Cooking Game VR
+## [The Cooking Game VR](https://www.meta.com/ru-ru/experiences/pcvr/1304948539547215/)
 
 *Platform: VR (SteamVR, Meta Link PC, Meta Quest)*
 
@@ -17,11 +17,11 @@ gameobjects and relay). I also ported the game to Steam, working with the
 Steam API. My toolkit also included the OpenXR and Wwise SDK, ensuring
 an immersive and polished experience
 
-!!PROJECT!!!
+!!PROJECT!!
 
 ![Into The Abyss](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/into-the-abyss.png)  
 
-## Into The Abyss
+## [Into The Abyss](https://github.com/NeutrinoZh/into-the-abyss)
 
 *Platform: Android*
 
