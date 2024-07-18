@@ -44,10 +44,10 @@ The game was developed in a couple of days during my first-year vacation in coll
 
 ![Tank World](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/tank-world.png)  
 
+## Tank World
+
 *Platform: PC*
 
 *Stack: C++, SDL2*
-
-## Tank World
 
 One of my first more or less finished games, which I wrote in 8th grade. At that time, I wrote my first game engine for it, which I later used to develop a few smaller games. In this game, rendering was done through SDLRenderer, but over time, I transitioned the engine to OpenGL.
