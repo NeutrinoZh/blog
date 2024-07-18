@@ -39,3 +39,15 @@ The project architecture is based on the Model-View-Presenter pattern along with
 *Stack: Java, LibGDX, Google AdMob, Python*
 
 The game was developed in a couple of days during my first-year vacation in collage. Interestingly, for the leaderboards, I decided to write my own service in Python, which I then hosted on Heroku. There are several locations that unlock as you progress, but otherwise, it’s just the usual dino game.
+
+!!PROJECT!!
+
+![Tank World](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/tank-world.png)  
+
+*Platform: PC*
+
+*Stack: C++, SDL2*
+
+## Tank World
+
+One of my first more or less finished games, which I wrote in 8th grade. At that time, I wrote my first game engine for it, which I later used to develop a few smaller games. In this game, rendering was done through SDLRenderer, but over time, I transitioned the engine to OpenGL.

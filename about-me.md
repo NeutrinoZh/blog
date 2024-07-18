@@ -8,9 +8,8 @@ I have always dreamed of creating my own games. So my first attempts were
 somewhere around 10-11 years old with a game engine Construct 2.
 It had visual programming, so after a few dozen videos on YouTube I could already make some small games on my own.
 Unfortunately, they have not survived to this day (. Sometime around the age of 12 (this was in 7th grade)
-I started writing mods for the mobile version of Minecraft PE.
+I started writing mods for the mobile version of Minecraft PE. At the time, they were being developed in JavaScript. That's how I got into my first programming language.
 
-At the time, they were being developed in JavaScript. That's how I got into my first programming language.
 Around the same time I was also experimenting with Game Maker 8. It was really interesting.
 I don't know why, but at some point I started learning C++. I remember how
 I developed various game programs with rendering for the console. Around the end of 7th grade
