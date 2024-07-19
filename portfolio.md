@@ -18,6 +18,20 @@ an immersive and polished experience
 
 !!PROJECT!!
 
+![Asset Pipeline](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/asset-pipeline.png)  
+
+## [Asset Pipeline](https://github.com/Dronner-Inc/dreich/blob/master/wind/docs/AssetPipeline.md)
+
+*Platform: PC, Android*
+
+*Stack: C++, Zlib*
+
+In game development, raw resources, such as graphics, audio, and other multimedia elements, are often not initially optimized for efficient usage within games. These resources may come in high-resolution formats or sizes that can impact the game's performance, increase loading times, and consume unnecessary storage space.
+
+The Asset Pipeline module addresses this challenge by serving as a vital intermediary step in the development process. It takes raw, unoptimized resources and transforms them into a format suitable for seamless integration and optimal performance within the game.
+
+!!PROJECT!!
+
 ![Into The Abyss](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/into-the-abyss.png)  
 
 ## [Into The Abyss](https://github.com/NeutrinoZh/into-the-abyss)
@@ -27,6 +41,10 @@ an immersive and polished experience
 *Stack: Unity, DOTween, UI Toolkit, Github Actions with GameCI*
 
 The project architecture is based on the Model-View-Presenter pattern along with the Services pattern for better separation of concerns. Continuous Integration and Continuous Deployment pipelines are set up using GitHub Actions and Game CI, automating the build and testing processes for efficient development workflows.
+
+!!PROJECT!!
+
+![Wind](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/depths-of-darkness.png)  
 
 !!PROJECT!!
 
@@ -41,19 +59,6 @@ The project architecture is based on the Model-View-Presenter pattern along with
 Cpp game engine. Boost, GLFW with OpenGL renderer, Ultralight UI
 (React/TSX). Asset pipeline (Bundles, Override assets, Lazy loading), Modern Input System (based on actions).
 
-!!PROJECT!!
-
-![Asset Pipeline](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/asset-pipeline.png)  
-
-## [Asset Pipeline](https://github.com/Dronner-Inc/dreich/blob/master/wind/docs/AssetPipeline.md)
-
-*Platform: PC, Android*
-
-*Stack: C++, Zlib*
-
-In game development, raw resources, such as graphics, audio, and other multimedia elements, are often not initially optimized for efficient usage within games. These resources may come in high-resolution formats or sizes that can impact the game's performance, increase loading times, and consume unnecessary storage space.
-
-The Asset Pipeline module addresses this challenge by serving as a vital intermediary step in the development process. It takes raw, unoptimized resources and transforms them into a format suitable for seamless integration and optimal performance within the game.
 
 !!PROJECT!!
 
