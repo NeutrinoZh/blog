@@ -32,6 +32,19 @@ The Asset Pipeline module addresses this challenge by serving as a vital interme
 
 !!PROJECT!!
 
+![Wind](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/wind.png)  
+
+## [Wind](https://github.com/Dronner-Inc/dreich)
+
+*Platform: PC*
+
+*Stack: C++, Boost, OpenGL, Ultralight, TypeScript, React*
+
+Cpp game engine. Boost, GLFW with OpenGL renderer, Ultralight UI
+(React/TSX). Asset pipeline (Bundles, Override assets, Lazy loading), Modern Input System (based on actions).
+
+!!PROJECT!!
+
 ![Into The Abyss](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/into-the-abyss.png)  
 
 ## [Into The Abyss](https://github.com/NeutrinoZh/into-the-abyss)
@@ -54,19 +67,6 @@ The project architecture is based on the Model-View-Presenter pattern along with
 
 This project follows best practices and utilizes various technologies to create a robust and maintainable game application. The project architecture is based on the Model-View-Presenter pattern along with the Services pattern for better separation of concerns.  Zenject is used as the dependency injection framework to manage object composition and support the Inversion of Control (IoC) principle. The project leverages Netcodes for GameObjects, facilitating seamless multiplayer functionality. Netcodes provides a robust framework for synchronizing game state across networked clients, enabling a smooth and responsive multiplayer experience.
 
-!!PROJECT!!
-
-![Wind](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/wind.png)  
-
-## [Wind](https://github.com/Dronner-Inc/dreich)
-
-*Platform: PC*
-
-*Stack: C++, Boost, OpenGL, Ultralight, TypeScript, React*
-
-Cpp game engine. Boost, GLFW with OpenGL renderer, Ultralight UI
-(React/TSX). Asset pipeline (Bundles, Override assets, Lazy loading), Modern Input System (based on actions).
-
 
 !!PROJECT!!
 
@@ -79,6 +79,18 @@ Cpp game engine. Boost, GLFW with OpenGL renderer, Ultralight UI
 *Stack: Java, LibGDX, Google AdMob, Python*
 
 The game was developed in a couple of days during my first-year vacation in collage. Interestingly, for the leaderboards, I decided to write my own service in Python, which I then hosted on Heroku. There are several locations that unlock as you progress, but otherwise, it’s just the usual dino game.
+
+!!PROJECT!!
+
+![Brainfuck](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/brainfuck.png)  
+
+## Brainfuck JIT on LLVM
+
+*Platform: PC*
+
+*Stack: C++, LLVM*
+
+"Brainfuck JIT on LLVM" is a project aimed at creating a Just-In-Time (JIT) compiler for the Brainfuck programming language, utilizing C++ and LLVM (Low Level Virtual Machine) for efficient code execution and optimization.
 
 !!PROJECT!!
 
@@ -211,6 +223,16 @@ In "Tower Defender," players focus on defending their base from waves of incomin
 *Stack: Python, PyGame*
 
 "Checkers" is a PC game developed using Python with PyGame, a popular library for creating games and multimedia applications. This game was a commissioned project and represents my first experience receiving payment for a game development project.
+
+![tic-tac-toe](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/tic-tac-toe.png)  
+
+## Tic Tac Toe
+
+*Platform: PC*
+
+*Stack: C++, OpenGL, ECS*
+
+"Tic Tac Toe" is a PC game developed using C++ with OpenGL for rendering and an Entity Component System (ECS) architecture for managing game entities and their behaviors. This classic game is brought to life with modern graphics and efficient code organization.
 
 !!PROJECT!!
 
