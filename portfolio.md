@@ -84,7 +84,7 @@ The game was developed in a couple of days during my first-year vacation in coll
 
 ![Brainfuck](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/brainfuck.png)  
 
-## Brainfuck JIT on LLVM
+## [Brainfuck JIT on LLVM](https://github.com/NeutrinoZh/brainfuck)
 
 *Platform: PC*
 
@@ -202,6 +202,30 @@ In "Cloud's Dungeon" players explore procedurally generated dungeons filled with
 
 !!PROJECT!!
 
+![chekers](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/checkers.png)  
+
+## Checkers
+
+*Platform: PC*
+
+*Stack: Python, PyGame*
+
+"Checkers" is a PC game developed using Python with PyGame, a popular library for creating games and multimedia applications. This game was a commissioned project and represents my first experience receiving payment for a game development project.
+
+!!PROJECT!!
+
+![tic-tac-toe](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/tic-tac-toe.png)  
+
+## Tic Tac Toe
+
+*Platform: PC*
+
+*Stack: C++, OpenGL, ECS*
+
+"Tic Tac Toe" is a PC game developed using C++ with OpenGL for rendering and an Entity Component System (ECS) architecture for managing game entities and their behaviors. This classic game is brought to life with modern graphics and efficient code organization.
+
+!!PROJECT!!
+
 ![tower-defender](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/tower-defender.jpg)  
 
 ## Tower Defender
@@ -214,25 +238,15 @@ In "Tower Defender," players focus on defending their base from waves of incomin
 
 !!PROJECT!!
 
-![chekers](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/checkers.png)  
+![3d-maze](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/3d-maze.png)  
 
-## Checkers
+## Pseudo 3D Maze
 
-*Platform: PC*
+*Platform: Web*
 
-*Stack: Python, PyGame*
+*Stack: JS*
 
-"Checkers" is a PC game developed using Python with PyGame, a popular library for creating games and multimedia applications. This game was a commissioned project and represents my first experience receiving payment for a game development project.
-
-![tic-tac-toe](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/tic-tac-toe.png)  
-
-## Tic Tac Toe
-
-*Platform: PC*
-
-*Stack: C++, OpenGL, ECS*
-
-"Tic Tac Toe" is a PC game developed using C++ with OpenGL for rendering and an Entity Component System (ECS) architecture for managing game entities and their behaviors. This classic game is brought to life with modern graphics and efficient code organization.
+Game is a web-based game developed using JavaScript. This game likely employs techniques to simulate a 3D environment using 2D rendering methods, creating an immersive experience for players navigating through a maze.
 
 !!PROJECT!!
 
@@ -257,15 +271,3 @@ In "Asteroids," players control a spaceship in an asteroid field, aiming to dest
 *Stack: C++, SDL2*
 
 In "Game of Life," players observe the evolution of patterns within a grid based on a set of complex rules. The game follows the principles of cellular automata, where each cell in a grid evolves based on specific rules and interactions with neighboring cells. The simulation employs advanced rulesets that go beyond the basic principles of Conway’s Game of Life, leading to more intricate and varied patterns.
-
-!!PROJECT!!
-
-![3d-maze](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/3d-maze.png)  
-
-## Pseudo 3D Maze
-
-*Platform: Web*
-
-*Stack: JS*
-
-Game is a web-based game developed using JavaScript. This game likely employs techniques to simulate a 3D environment using 2D rendering methods, creating an immersive experience for players navigating through a maze.
