@@ -20,7 +20,7 @@ an immersive and polished experience
 
 ![Asset Pipeline](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/asset-pipeline.png)  
 
-## [Asset Pipeline](https://github.com/Dronner-Inc/dreich/blob/master/wind/docs/AssetPipeline.md)
+## [Asset Pipeline](https://github.com/WindEntertainment/wind/blob/master/docs/wind/AssetPipeline.md)
 
 *Platform: PC, Android*
 
@@ -34,7 +34,7 @@ The Asset Pipeline module addresses this challenge by serving as a vital interme
 
 ![Wind](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/wind.png)  
 
-## [Wind](https://github.com/Dronner-Inc/dreich)
+## [Wind](https://github.com/WindEntertainment/wind)
 
 *Platform: PC*
 
