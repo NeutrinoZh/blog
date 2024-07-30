@@ -8,13 +8,14 @@
 
 *Stack: Unity, OpenXR, Wwise, URP, Netcode for GameObjects*
 
-I collaborated with the designer to bring our game to life, tackling all the
-technical challenges. I crafted intricate game mechanics, fine-tuned it for
-Android (Quest 2), and conjured stunning shaders and particles (visual
-graph, VFX). I also wove in seamless multiplayer functionality (netcodes for
-gameobjects and relay). I also ported the game to Steam, working with the
-Steam API. My toolkit also included the OpenXR and Wwise SDK, ensuring
-an immersive and polished experience
+- Developed interactive and immersive virtual reality (VR) experiences using Unity game engine
+- Created advanced gameplay mechanics and systems for VR project
+- Collaborated with artists and designers to implement models, animations, and visual effects into Unity
+- Optimized performance and ensured smooth frame rates by implementing efficient coding techniques
+- Integrated audio with WwiseSDK.
+- Debugged and resolved technical issues and bugs within the game
+
+!!PROJECT!!
 
 !!PROJECT!!
 
@@ -40,8 +41,12 @@ The Asset Pipeline module addresses this challenge by serving as a vital interme
 
 *Stack: C++, Boost, OpenGL, Ultralight, TypeScript, React*
 
-Cpp game engine. Boost, GLFW with OpenGL renderer, Ultralight UI
-(React/TSX). Asset pipeline (Bundles, Override assets, Lazy loading), Modern Input System (based on actions).
+Written in C++, is the most complex project I have developed, a large
+ecosystem of various modules and tools. During the development, I
+encountered many different problems, which significantly increased my
+level as a specialist. And the most difficult challenge was to develop the
+right architecture for such a project, which was intended to be as flexible as
+possible.
 
 !!PROJECT!!
 
@@ -53,7 +58,7 @@ Cpp game engine. Boost, GLFW with OpenGL renderer, Ultralight UI
 
 *Stack: Unity, DOTween, UI Toolkit, Github Actions with GameCI*
 
-The project architecture is based on the Model-View-Presenter pattern along with the Services pattern for better separation of concerns. Continuous Integration and Continuous Deployment pipelines are set up using GitHub Actions and Game CI, automating the build and testing processes for efficient development workflows.
+The main goal of this project was to study CI/CD. The project architecture is based on the Model-View-Presenter pattern along with the Services pattern for better separation of concerns. Continuous Integration and Continuous Deployment pipelines are set up using GitHub Actions and Game CI, automating the build and testing processes for efficient development workflows.
 
 !!PROJECT!!
 
