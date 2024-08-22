@@ -17,6 +17,16 @@
 
 !!PROJECT!!
 
+![COVID-19: The Beginning](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/covid-19.png)  
+
+## [COVID-19: The Beginning](https://neutrinozh.itch.io/covid-19-the-beginning)
+
+*Platform: Web, Windows*
+
+*Stack: Unity, DOTween, Post-Processing Version 2, Input System*
+
+This game was created in 96 hours for the GMTK Game Jam 2024 with the theme 'Built to Scale' by a team of six. As the team lead, I developed and implemented most of the mechanics while working closely with the artists. I also assigned responsibilities and tasks within the team. As of August 22, the game is ranked in the top 43 out of more than 7,500 projects.
+
 !!PROJECT!!
 
 ![Asset Pipeline](https://raw.githubusercontent.com/NeutrinoZh/blog/master/media/portfolio/asset-pipeline.png)  
